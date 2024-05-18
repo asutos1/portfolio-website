@@ -102,4 +102,11 @@ nav :hover{
 
 }
 
+.fa-facebook, .fa-instagram{
+    border-radius: 50%;
+    font-size: 30px;
+}
+
+
+
 
