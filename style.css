@@ -1,0 +1,105 @@
+body{
+    background-image: url(webbg.jpg);
+    height: 100%;
+    padding: 0%;
+    margin: 0%;
+    
+    background-repeat: no-repeat;
+    
+}
+header{
+    padding-left: 70px;
+}
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+    color: whitesmoke;
+    padding-top: 20px;
+    
+}
+
+.welcome{
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    color: antiquewhite;
+    padding-top: 85px;
+    
+}
+.sec{
+    color: palevioletred;
+}
+section{
+    padding-left: 70px;
+    padding-top: 120px;
+}
+.one{
+    text-align: center;
+    display: inline;
+}
+
+#p1{
+    font-family: serif;
+    color: antiquewhite;
+    font-size: 16px;
+    
+}
+
+#p2{
+    font-family:Georgia, 'Times New Roman', Times, serif ;    
+    color: rgb(133, 8, 81) ;
+    font-size: 52px;
+    
+}
+
+#p3{
+    font-family: serif;
+    color: antiquewhite;
+    font-size: 22px;
+
+}
+
+nav :hover{
+    color: rgb(255, 31, 98);
+    
+}
+
+#top{
+    text-align: right;
+}
+.link{
+
+    text-decoration: none;
+    font-size: 20px;
+    padding: 30px;
+    color: aliceblue;
+}
+
+.two{
+    color: antiquewhite;
+    padding: 0;
+    margin: 0;
+
+}
+
+
+.side{
+    color: darkkhaki;
+}
+#contact{
+    padding-bottom: 10px;
+    color: antiquewhite;
+    text-align: center;
+}
+.socials{
+    text-decoration: none;
+    color: rgb(28, 126, 218);
+    padding: 30px;
+}
+.socials:hover{
+    color: rgb(201, 82, 112);
+
+}
+
+
